@@ -1,0 +1,26 @@
+{
+    "author": "wararyo",
+    "dependencies": {},
+    "keywords": [],
+    "name": "kaleidoscope",
+    "pebble": {
+        "displayName": "kaleidoscope Analog Watchface",
+        "enableMultiJS": false,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "332c4e79-12ea-42ba-9506-f18907642a1d",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
